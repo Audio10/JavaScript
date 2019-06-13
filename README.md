@@ -1,2 +1,2 @@
 # JavaScript
-Proyectos en Java Script
+Repositorios de Cursos con Java Script
